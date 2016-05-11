@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[consumeandcreate]]></title>
+        <description><![CDATA[consumeandcreate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 17:26:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Consume & Create is a Denver based creative studio</p>]]></description>
+            <link>undefinedconsume-and-create-is-a-denver-based-creative-studio/index.html</link>
+            <guid isPermaLink="false">94550523-5be9-4bbf-bba8-f4a004420ec4</guid>
+            <pubDate>Wed, 11 May 2016 17:26:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

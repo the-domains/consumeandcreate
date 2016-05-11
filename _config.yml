@@ -1,0 +1,28 @@
+name: consumeandcreate
+favicon: null
+layout_spectrum: 0.14621466188691556
+typography_spectrum: 0.33647593506611884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6224192469380796
+  lightness: 0.07285541365854442
+  saturation: 0.5748699631076306
+  rhythmicContrast: 0.738979114452377
+purpose: []
